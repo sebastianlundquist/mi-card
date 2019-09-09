@@ -1,5 +1,5 @@
 # Mi-Card
 
-Roll some dice with this Flutter app
+A business card made with Flutter.
 
 ![Mi-Card app gif](mi-card.png)
